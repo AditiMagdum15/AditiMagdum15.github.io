@@ -2,32 +2,32 @@
 Computer Engineering undergraduate student specializing as Software Developer with an internship experience at Maandesh company and as a Data Analytics in Quantum company. Looking for opportunities as a Software engineer.
 
 # EXPERIENCE
-Maandesh Comapny Ltd., 
-Role - Fullstack using Springboot framework
-2023
+# Maandesh Comapny Ltd., 
+# Role - Fullstack using Springboot framework
+# 2023
 •Created e-commerce website from scratch, working in Agile methodology, using Springboot, HTML, CSS, JavaScript.
 •Implemented user authentication, admin controls, and MySQL database.
 •Utilized Postman for API testing and smooth functionality.
 •Enabled "Add to Cart" and user-friendly product search.
 
 # PROJECTS
-Course Management System, Role - Fullstack Developer
-2022
+# Course Management System, Role - Fullstack Developer
+# 2022
 •Java-based web app with JSP, Servlet, JDBC, Oracle, HTML, CSS, and Bootstrap.
 •Modules: Register, Login, Admin (Add/Delete/Search/Sort) for Students and Courses.
 •Admin has the authority to grant students access to specific courses, enabling approved students to access course study material.
 •Integrated a secure "Add to Cart" feature allowing students to purchase courses after approval.
 
 
-Console based- Bank Application, As a backend developer
-2022
+# Console based- Bank Application, As a backend developer
+# 2022
 •Used Eclipse for Java(JDBC, JSP Servlet) as a programming language.
 •Reliability on performance classes like the transactions having withdrawal and deposit sub-classes, etc.
 •Connected to the database and stored the records.
 
 
-Angular using Material UI, Role - Frontend Developer
-2022
+# Angular using Material UI, Role - Frontend Developer
+# 2022
 •Developed frontend using Angular and Material UI to enable CRUD operations.
 •Implemented interactive boxes for adding, deleting, updating, and searching products.
 •Displayed a dynamic list of products on the frontend.
@@ -38,8 +38,8 @@ Website using WordPress, Role - Frontend Developer
 •Implemented various pages, posts, menus, buttons, Excerpt technique and categories for a seamless user experience.
 
 
-DP-900: Microsoft Azure Data Fundamentals Intership, Data Science
-2021
+# DP-900: Microsoft Azure Data Fundamentals Intership, Data Science
+# 2021
 •Python Programming using Pandas, Libraries, Numpy, etc.
 •Data visualization techniques, data mining, data representation and analyze large amounts of information to discover trends and patterns and Introduction to PowerBi.
 
